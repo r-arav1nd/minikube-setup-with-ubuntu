@@ -1,5 +1,6 @@
 # <i>minikube</i> setup with Ubuntu Server
 
+<i>minikube</i> is local Kubernetes, focusing on making it easy to lean and develop for Kubernetes.<br>
 Setting up minikube on an Ubuntu server involves several steps. Here's a basic outline of the process
 
 
